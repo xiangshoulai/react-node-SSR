@@ -1,0 +1,3 @@
+export const HOME_INIT_START = 'HOME_INIT_START';
+export const HOME_INIT_SUCCESS = 'HOME_INIT_SUCCESS';
+export const HOME_INIT_FAIL = 'HOME_INIT_FAIL';
